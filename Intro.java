@@ -17,5 +17,5 @@ public class Intro {
         System.out.println(st.peek()+" "+ st.size());
         st.pop();
         System.out.println(st);
-    }
+     }
 }
